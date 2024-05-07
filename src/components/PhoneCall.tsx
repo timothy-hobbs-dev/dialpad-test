@@ -45,7 +45,7 @@ const PhoneCall: React.FC = () => {
           },
         }
       );
-      if (response.status != 200){
+      if (response.status !== 200){
         
       }
       
